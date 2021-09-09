@@ -1,0 +1,11 @@
+frontend:
+  - implement api client: 1
+  - feat:
+      - show signin modal: 2
+  - ops:
+      - bump react:
+          point: 1
+          comment: use 16.x.x
+document:
+  - build flow: 1
+
