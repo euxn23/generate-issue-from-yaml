@@ -1,0 +1,31 @@
+{
+  "name": "generate-issue-from-yaml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euxn23/generate-issue-from-yaml.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/euxn23/generate-issue-from-yaml/issues"
+  },
+  "homepage": "https://github.com/euxn23/generate-issue-from-yaml#readme",
+  "devDependencies": {
+    "@types/node": "^16.9.0",
+    "dotenv-cli": "^4.0.0",
+    "prettier": "^2.4.0",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.2"
+  },
+  "dependencies": {
+    "@octokit/rest": "^18.10.0",
+    "yaml": "^1.10.2"
+  }
+}
